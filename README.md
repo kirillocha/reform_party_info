@@ -6,8 +6,9 @@
 - `reform_party_platform_and_policies\PNG\*.png` : 개혁신당 정강정책 PDF 파일 PNG 이미지 버전
 
 ## 개혁신당 당헌
-- `reform_party_constitution.txt` : 개혁신당 정강정책 텍스트 파일
-
+- `reform_party_constitution.txt` : 개혁신당 당헌 텍스트 파일
+- `reform_party_constitution.pdf` : 개혁신당 당헌 PDF 파일 (서식 적용됨)
+- `reform_party_constitution\PNG\*.png` : 개혁신당 당헌 PDF 파일 PNG 이미지 버전
 
 ## 유의사항
 OCR, LLM을 이용한 결과물이므로 출처 원문과 예기치 못한 차이가 있을 수 있습니다.
